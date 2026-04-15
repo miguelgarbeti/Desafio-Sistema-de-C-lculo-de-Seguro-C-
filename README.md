@@ -1,12 +1,12 @@
-##🚀Nessa atividade uzando situações hipoteticas sobre uma situaão hipotetica:
+## 🚀 Nessa atividade uzando situações hipoteticas sobre uma situaão hipotetica:
 
 -Você assumiu o cargo de desenvolvedor em uma seguradora e recebeu a tarefa de implementar as novas regras de negócio para o cálculo das apólices.
 
-##🖥️Contexto:
+## 🖥️ Contexto:
 
 -O sistema deve ser preciso e capaz de lidar com diferentes categorias, perfis de condutores e planos de cobertura.
 
-##📖Como deve ser executado: 
+## 📖 Como deve ser executado: 
 O programa deve imprimir um relatório detalhado contendo:
 
 -Valor Base
