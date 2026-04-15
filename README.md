@@ -8,8 +8,14 @@
 
 ##📖Como deve ser executado: 
 O programa deve imprimir um relatório detalhado contendo:
+
 -Valor Base
+
 -Valor do Adicional de Categoria
+
 -Valor do Adicional de Idade
+
 -Valor da Cobertura do Plano
+
 -Valor Total Final da Apólice
+
